@@ -75,7 +75,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 <br>
 
 <a href="https://markbugwak.github.io/Individual-Personal-Profile-Page/">
-  <img src="https://img.shields.io/badge/🦇%20OPEN%20THE%20PORTFOLIO-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="Open Portfolio">
+  <img src="https://img.shields.io/badge/🦇%20%20%20PORTFOLIO-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="Open Portfolio">
 </a>
 <a href="https://github.com/Markbugwak">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub">
