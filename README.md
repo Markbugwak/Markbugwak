@@ -58,11 +58,6 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Markbugwak&theme=dark" height="170" alt="GitHub stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Markbugwak&theme=dark" height="170" alt="Top languages">
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=Markbugwak&background=000000&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=F5C518&border=F5C518" alt="Streak stats">
 
 </div>
