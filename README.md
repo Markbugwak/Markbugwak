@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 🦇 THE DEVELOPER BEHIND THE SIGNAL
+##  THE DEVELOPER BEHIND THE SIGNAL
 
 </div>
 
@@ -31,7 +31,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <div align="center">
 
-## ⚙️ THE UTILITY BELT
+##  THE UTILITY BELT
 
 <br>
 
@@ -54,11 +54,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <div align="center">
 
-## 🧠 THE BAT-COMPUTER
-
-<br>
-
-<img src="./profile-3d-contrib/bat-skyline.svg" width="100%" alt="Gotham skyline of my contributions">
+##  THE BAT-COMPUTER
 
 <br>
 
@@ -70,7 +66,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <div align="center">
 
-## 🦇 ENTER MY WORLD
+##  ENTER MY WORLD
 
 <br>
 
