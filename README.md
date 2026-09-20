@@ -58,8 +58,8 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Markbugwak&show_icons=true&hide_border=false&bg_color=000000&title_color=F5C518&text_color=C9C9C9&icon_color=F5C518&border_color=F5C518&ring_color=F5C518" height="170" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markbugwak&layout=compact&bg_color=000000&title_color=F5C518&text_color=C9C9C9&border_color=F5C518" height="170" alt="Top languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Markbugwak&theme=dark" height="170" alt="GitHub stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Markbugwak&theme=dark" height="170" alt="Top languages">
 
 <br>
 
