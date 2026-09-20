@@ -64,49 +64,6 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <div align="center">
 
-## 🏙️ CASE FILES FROM GOTHAM
-
-</div>
-
-### 📁 CASE #001: ROBOQUEST
-> **Classification:** Interactive digital solution · **Outcome:** Decorated
-
-A technology project focused on building an interactive, practical digital experience, recognized across design and usability.
-
-| 🏆 Commendation |
-|:---|
-| **Best in Virtual Design** |
-| **Best in Usability** |
-| **Best Overall Design** |
-
----
-
-### 📁 CASE #002: U-CONVERTIT
-> **Classification:** Academic workstation · **Target:** CIT-U students and Technologians
-
-An all-in-one academic toolkit that puts the tools students actually need in one place, so they stop juggling ten tabs.
-
-| Gadget | Function |
-|:---|:---|
-| 📄 **Converter** | PDF ↔ Word |
-| ✍️ **Paraphraser** | Rewrite text clearly |
-| 🧠 **Quiz Maker** | Turn notes into practice |
-| 🔍 **OCR** | Pull text from images and scans |
-| 📝 **Refiner** | Polish and clean up writing |
-
----
-
-### 📁 CASE #003: QUESTGO
-> **Classification:** Campus marketplace · **Status:** 🟡 ACTIVE INVESTIGATION
-
-A hyperlocal errand marketplace for CIT-U students. **Requesters** post *Quests*, **Runners** complete them, and everything is handled through verified student accounts and safe campus meet-up points.
-
-**Focus areas:** software architecture · UI/UX · trust and safety design · real-time, race-condition-safe task acceptance
-
----
-
-<div align="center">
-
 ## 🧠 THE BAT-COMPUTER
 
 <br>
@@ -119,36 +76,6 @@ A hyperlocal errand marketplace for CIT-U students. **Requesters** post *Quests*
 <img src="https://streak-stats.demolab.com?user=Markbugwak&background=000000&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=F5C518&border=F5C518" alt="Streak stats">
 
 </div>
-
----
-
-<div align="center">
-
-## 🔧 SYSTEM ARCHITECTURE
-
-</div>
-
-```text
-   ┌──────────────────────────────┐
-   │     COMPUTER ENGINEERING     │
-   └──────────────┬───────────────┘
-                  ▼
-   ┌──────────────────────────────┐
-   │     SOFTWARE DEVELOPMENT     │
-   └──────────────┬───────────────┘
-                  ▼
-   ┌──────────────────────────────┐
-   │      SYSTEMS & HARDWARE      │
-   └──────────────┬───────────────┘
-                  ▼
-   ┌──────────────────────────────┐
-   │           UI / UX            │
-   └──────────────┬───────────────┘
-                  ▼
-   ┌──────────────────────────────┐
-   │     PRACTICAL TECHNOLOGY     │
-   └──────────────────────────────┘
-```
 
 ---
 
