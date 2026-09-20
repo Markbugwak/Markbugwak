@@ -5,7 +5,7 @@
 <img src="./assets/gotham_bat_signal.gif" width="100%" alt="Gotham City Bat Signal">
 
 <a href="https://github.com/Markbugwak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F5C518&center=true&vCenter=true&width=760&lines=I+am+the+one+who+debugs.;Award-winning+UI%2FUX+%2B+full-stack+builder.;Software+%7C+Systems+%7C+Hardware+%7C+Design;Open+to+internships+and+junior+roles." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F5C518&center=true&vCenter=true&width=760&lines=I+am+the+one+who+debugs.;Award-winning+UI%2FUX+%2B+full-stack+builder.;Software+%7C+Systems+%7C+Hardware+%7C+Design;+to+internships+and+junior+roles." alt="Typing SVG">
 </a>
 
 <br><br>
@@ -167,7 +167,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 <br>
 
 <!-- Requires the snake.yml workflow and a repo named Markbugwak/Markbugwak -->
-<img src="https://raw.githubusercontent.com/Markbugwak/Markbugwak/output/github-snake-dark.svg" width="100%" alt="Contribution snake">
+<img src="https://raw.githubusercontent.com/Markbugwak/Markbugwak/.github/workflows/github-snake-dark.svg" width="100%" alt="Contribution snake">
 
 </div>
 
