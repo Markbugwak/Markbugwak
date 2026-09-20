@@ -167,7 +167,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 <br>
 
 <!-- Requires the snake.yml workflow and a repo named Markbugwak/Markbugwak -->
-<img src="https://raw.githubusercontent.com/Markbugwak/Markbugwak/.github/workflows/github-snake-dark.svg" width="100%" alt="Contribution snake">
+<img src="https://raw.githubusercontent.com/Markbugwak/Markbugwak/output/github-snake-dark.svg" width="100%" alt="Contribution snake">
 
 </div>
 
