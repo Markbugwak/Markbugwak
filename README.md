@@ -1,14 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,60:0D0D0D,100:F5C518&height=240&section=header&text=MARK%20ANTHONY%20A.%20BLANCO&fontSize=42&fontColor=F5C518&animation=fadeIn&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=68" width="100%" alt="Mark Anthony A. Blanco">
+
 <img src="./assets/gotham_bat_signal.gif" width="100%" alt="Gotham City Bat Signal">
 
-<br><br>
+<a href="https://github.com/Markbugwak">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=I+am+the+one+who+debugs.;Building+practical+tech+for+Gotham...+and+CIT-U.;Software+%7C+Systems+%7C+Hardware+%7C+Design" alt="Typing SVG">
+</a>
 
-# MARK ANTHONY A. BLANCO
+<br>
 
-### Computer Engineering Student
-
-**Building practical technology through software, systems, and problem-solving.**
+![Status](https://img.shields.io/badge/STATUS-ON%20PATROL-F5C518?style=for-the-badge&labelColor=000000)
+![Location](https://img.shields.io/badge/BASE-CEBU%2C%20PH-F5C518?style=for-the-badge&labelColor=000000)
+![Role](https://img.shields.io/badge/CLASS-COMPUTER%20ENGINEER-F5C518?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -20,19 +24,39 @@
 
 </div>
 
-I'm **Mark Anthony A. Blanco**, a Computer Engineering student interested in **software, systems, hardware, and design**.
+```text
+> IDENTITY.......... Mark Anthony A. Blanco
+> ALIAS............. Markbugwak
+> DISCIPLINE........ Computer Engineering
+> BASE OF OPS....... Cebu City, Philippines
+> SPECIALTIES....... Software · Systems · Hardware · UI/UX
+> MISSION........... Turn ideas into technology that actually helps people
+> STATUS............ Building. Always building.
+```
 
-I enjoy building practical solutions, exploring technology, and turning ideas into useful digital experiences.
+I'm a Computer Engineering student who builds **practical solutions** across software, systems, hardware, and design.
+Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 ---
 
 <div align="center">
 
-## ⚙️ TECHNOLOGY ARSENAL
+## ⚙️ THE UTILITY BELT
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cs,python,java,js,react,tailwind,supabase,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,js,react,tailwind,supabase,figma,git,github&theme=dark" alt="Tech stack" />
+
+<br><br>
+
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=F5C518)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=F5C518)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F5C518)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F5C518)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F5C518)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=F5C518)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=F5C518)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F5C518)
 
 </div>
 
@@ -40,65 +64,91 @@ I enjoy building practical solutions, exploring technology, and turning ideas in
 
 <div align="center">
 
-## 🏙️ PROJECTS FROM GOTHAM
+## 🏙️ CASE FILES FROM GOTHAM
 
 </div>
 
-### 🦾 RoboQuest
+### 📁 CASE #001: ROBOQUEST
+> **Classification:** Interactive digital solution · **Outcome:** Decorated
 
-A technology project focused on creating an interactive and practical digital solution.
+A technology project focused on building an interactive, practical digital experience, recognized across design and usability.
 
-**Awards**
-
-* 🏆 Best in Virtual Design
-* 🏆 Best in Usability
-* 🏆 Best Overall Design
-
----
-
-### ⚡ U-ConvertIT
-
-An all-in-one academic workstation designed for **CIT-U students and Technologians**.
-
-The project aims to bring multiple academic tools together into one convenient platform.
-
-**Features**
-
-* 📄 PDF ↔ Word conversion
-* ✍️ Paraphrasing
-* 🧠 Quiz Maker
-* 🔍 OCR
-* 📝 Text refinement
+| 🏆 Commendation |
+|:---|
+| **Best in Virtual Design** |
+| **Best in Usability** |
+| **Best Overall Design** |
 
 ---
 
-### 🎮 QuestGo
+### 📁 CASE #002: U-CONVERTIT
+> **Classification:** Academic workstation · **Target:** CIT-U students and Technologians
 
-A current project focused on creating an interactive digital experience while applying **software development, design, and problem-solving**.
+An all-in-one academic toolkit that puts the tools students actually need in one place, so they stop juggling ten tabs.
+
+| Gadget | Function |
+|:---|:---|
+| 📄 **Converter** | PDF ↔ Word |
+| ✍️ **Paraphraser** | Rewrite text clearly |
+| 🧠 **Quiz Maker** | Turn notes into practice |
+| 🔍 **OCR** | Pull text from images and scans |
+| 📝 **Refiner** | Polish and clean up writing |
+
+---
+
+### 📁 CASE #003: QUESTGO
+> **Classification:** Campus marketplace · **Status:** 🟡 ACTIVE INVESTIGATION
+
+A hyperlocal errand marketplace for CIT-U students. **Requesters** post *Quests*, **Runners** complete them, and everything is handled through verified student accounts and safe campus meet-up points.
+
+**Focus areas:** software architecture · UI/UX · trust and safety design · real-time, race-condition-safe task acceptance
 
 ---
 
 <div align="center">
 
-## 🧠 CURRENTLY BUILDING
+## 🧠 THE BAT-COMPUTER
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Markbugwak&show_icons=true&hide_border=false&bg_color=000000&title_color=F5C518&text_color=C9C9C9&icon_color=F5C518&border_color=F5C518&ring_color=F5C518" height="170" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markbugwak&layout=compact&bg_color=000000&title_color=F5C518&text_color=C9C9C9&border_color=F5C518" height="170" alt="Top languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Markbugwak&background=000000&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=F5C518&border=F5C518" alt="Streak stats">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔧 SYSTEM ARCHITECTURE
+
+</div>
 
 ```text
-        COMPUTER ENGINEERING
-                 │
-                 ▼
-        SOFTWARE DEVELOPMENT
-                 │
-                 ▼
-          SYSTEMS & HARDWARE
-                 │
-                 ▼
-             UI / UX
-                 │
-                 ▼
-        PRACTICAL TECHNOLOGY
+   ┌──────────────────────────────┐
+   │     COMPUTER ENGINEERING     │
+   └──────────────┬───────────────┘
+                  ▼
+   ┌──────────────────────────────┐
+   │     SOFTWARE DEVELOPMENT     │
+   └──────────────┬───────────────┘
+                  ▼
+   ┌──────────────────────────────┐
+   │      SYSTEMS & HARDWARE      │
+   └──────────────┬───────────────┘
+                  ▼
+   ┌──────────────────────────────┐
+   │           UI / UX            │
+   └──────────────┬───────────────┘
+                  ▼
+   ┌──────────────────────────────┐
+   │     PRACTICAL TECHNOLOGY     │
+   └──────────────────────────────┘
 ```
-
-</div>
 
 ---
 
@@ -109,33 +159,18 @@ A current project focused on creating an interactive digital experience while ap
 <br>
 
 <a href="https://markbugwak.github.io/Individual-Personal-Profile-Page/">
-
-<img src="https://img.shields.io/badge/🦇%20ENTER%20MY%20PORTFOLIO-FF8000?style=for-the-badge&labelColor=000000" alt="Enter My Portfolio">
-
+  <img src="https://img.shields.io/badge/🦇%20OPEN%20THE%20PORTFOLIO-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="Open Portfolio">
 </a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🌃 FIND ME
-
 <a href="https://github.com/Markbugwak">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub">
 </a>
 
-</div>
+<br><br>
 
-<br>
+### *"It's not who I am underneath, but what I build that defines me."*
 
-<div align="center">
+**THE CITY NEVER SLEEPS. NEITHER DOES THE CODE.**
 
-### THE CITY NEVER SLEEPS.
-
-**Neither does the code.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,100:000000&height=100&section=footer" width="100%" alt="footer">
 
 </div>
