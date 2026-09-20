@@ -54,7 +54,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <div align="center">
 
-## 🧠 THE BAT-COMPUTER
+## STATUS
 
 <br>
 
