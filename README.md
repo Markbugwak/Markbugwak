@@ -24,16 +24,6 @@
 
 </div>
 
-```text
-> IDENTITY.......... Mark Anthony A. Blanco
-> ALIAS............. Markbugwak
-> DISCIPLINE........ Computer Engineering
-> BASE OF OPS....... Cebu City, Philippines
-> SPECIALTIES....... Software · Systems · Hardware · UI/UX
-> MISSION........... Turn ideas into technology that actually helps people
-> STATUS............ Building. Always building.
-```
-
 I'm a Computer Engineering student who builds **practical solutions** across software, systems, hardware, and design.
 Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
