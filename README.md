@@ -91,7 +91,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 </p>
 
 <p>
-<a href="https://markbugwak.github.io/Individual-Personal-Profile-Page/" target="_blank">
+<a href="https://hotelcebu.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View HOTEL+">
 </a>
 </p>
