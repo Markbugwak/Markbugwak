@@ -20,7 +20,11 @@
 
 <br>
 
-<a href="#-featured-missions">Missions</a> • <a href="#-the-utility-belt">Utility Belt</a> • <a href="#-commendations">Awards</a> • <a href="#-the-bat-computer">Stats</a> • <a href="#-contact-the-signal">Contact</a>
+<a href="#-featured-missions">Missions</a> •
+<a href="#-the-utility-belt">Utility Belt</a> •
+<a href="#-commendations">Awards</a> •
+<a href="#-the-bat-computer">Stats</a> •
+<a href="#-contact-the-signal">Contact</a>
 
 </div>
 
@@ -32,14 +36,14 @@
 
 </div>
 
-|                           |                                                                            |
-| ------------------------- | -------------------------------------------------------------------------- |
-| <b>Alias</b>              | Mark Anthony A. Blanco                                                     |
-| <b>Base of operations</b> | Cebu City, Philippines                                                     |
-| <b>Training academy</b>   | Cebu Institute of Technology – University (CIT-U), BS Computer Engineering |
-| <b>Specialties</b>        | Full-stack web, UI/UX design, systems & hardware fundamentals              |
-| <b>Currently</b>          | Building <b>QuestGo</b>, a student errand marketplace for CIT-U            |
-| <b>Looking for</b>        | Internships, OJT, and junior software / engineering roles                  |
+| | |
+|---|---|
+| <b>Alias</b> | Mark Anthony A. Blanco |
+| <b>Base of operations</b> | Cebu City, Philippines |
+| <b>Training academy</b> | Cebu Institute of Technology – University (CIT-U), BS Computer Engineering |
+| <b>Specialties</b> | Full-stack web, UI/UX design, systems & hardware fundamentals |
+| <b>Currently</b> | Building <b>QuestGo</b>, a student errand marketplace for CIT-U |
+| <b>Looking for</b> | Internships, OJT, and junior software / engineering roles |
 
 I build <b>practical solutions</b> across software, systems, hardware, and design.
 
@@ -57,12 +61,12 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-| Gadget                   | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <b>Languages</b>         | <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=F5C518" alt="C"> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=F5C518" alt="C#"> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F5C518" alt="Python"> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F5C518" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F5C518" alt="JavaScript"> |
-| <b>Frontend</b>          | <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=F5C518" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=F5C518" alt="CSS3"> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=F5C518" alt="React"> <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=F5C518" alt="Tailwind">                                                                                                           |
-| <b>Backend & Data</b>    | <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=F5C518" alt="Supabase"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=F5C518" alt="PostgreSQL">                                                                                                                                                                                                                                                                                                                            |
-| <b>Design & Workflow</b> | <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F5C518" alt="Figma"> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F5C518" alt="Git"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=F5C518" alt="GitHub">                                                                                                                                                                                                                                       |
+| Gadget | Tools |
+|---|---|
+| <b>Languages</b> | <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=F5C518" alt="C"> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=F5C518" alt="C#"> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F5C518" alt="Python"> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F5C518" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F5C518" alt="JavaScript"> |
+| <b>Frontend</b> | <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=F5C518" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=F5C518" alt="CSS3"> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=F5C518" alt="React"> <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=F5C518" alt="Tailwind"> |
+| <b>Backend & Data</b> | <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=F5C518" alt="Supabase"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=F5C518" alt="PostgreSQL"> |
+| <b>Design & Workflow</b> | <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F5C518" alt="Figma"> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F5C518" alt="Git"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=F5C518" alt="GitHub"> |
 
 ---
 
@@ -78,10 +82,16 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <summary><b>📂 CASE #001 — HOTEL+</b> &nbsp;🏨 <i>Hotel Booking Management System</i></summary>
 
-<br>
+<p>
+<b>Classification:</b> Full-stack hotel booking management system
+</p>
+
+<p>
+<b>Mission brief:</b> HOTEL+ is a modern hotel booking platform designed to simplify room discovery, reservation, and booking management through a clean and responsive web interface.
+</p>
 
 <a href="https://markbugwak.github.io/Individual-Personal-Profile-Page/" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View Project">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View HOTEL+">
 </a>
 
 </details>
@@ -90,25 +100,23 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <summary><b>📂 CASE #002 — RoboQuest</b> &nbsp;🏆 <i>Award-winning design project</i></summary>
 
-<br>
-
+<p>
 <b>Classification:</b> Award-winning project
+</p>
 
-<br><br>
-
+<p>
 <b>Mission brief:</b> A project focused on virtual design, usability, and overall user experience, recognized across multiple design categories.
+</p>
 
-<br><br>
-
+<p>
 <b>Commendations:</b>
+</p>
 
-<br>
-
-🥇 Best in Virtual Design
-🥇 Best in Usability
+<p>
+🥇 Best in Virtual Design &nbsp;•&nbsp;
+🥇 Best in Usability &nbsp;•&nbsp;
 🥇 Best Overall Design
-
-<br><br>
+</p>
 
 <a href="https://www.figma.com/proto/0sksZ0FJU54tKbxwSTFwot/Roboquest?node-id=1-296&p=f&t=TGIn4p7gGTF1brKU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A296" target="_blank">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&logo=figma&logoColor=000000&labelColor=000000&color=F5C518" alt="View RoboQuest">
@@ -120,26 +128,24 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <summary><b>📂 CASE #003 — U-ConvertIT</b> &nbsp;🎓 <i>Academic workstation for CIT-U students</i></summary>
 
-<br>
-
+<p>
 <b>Classification:</b> All-in-one student productivity toolkit
+</p>
 
-<br><br>
-
+<p>
 <b>Mission brief:</b> An academic productivity platform designed to bring several useful student tools into one workspace.
+</p>
 
-<br><br>
-
+<p>
 <b>Gadgets inside:</b>
+</p>
 
-<br>
-
-📄 PDF ↔ Word conversion
-✍️ Paraphrasing and text refinement
-🧠 Quiz maker
+<p>
+📄 PDF ↔ Word conversion<br>
+✍️ Paraphrasing and text refinement<br>
+🧠 Quiz maker<br>
 🔎 OCR — image to text
-
-<br><br>
+</p>
 
 <a href="https://u-convertit-frontend.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View U-ConvertIT">
@@ -151,39 +157,41 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <summary><b>📂 CASE #004 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
-<br>
-
+<p>
 <b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
+</p>
 
-<br><br>
-
+<p>
 <b>Mission brief:</b> QuestGo connects CIT-U students who need small tasks completed with fellow students willing to complete them for payment at approved campus meet-up points.
+</p>
 
-<br><br>
-
+<p>
 <b>How it works:</b>
+</p>
 
+<p>
 <b>Requesters</b> post <b>Quests</b>, while <b>Runners</b> accept and complete them for cash.
+</p>
 
-<br><br>
-
+<p>
 <b>Built-in safeguards:</b>
+</p>
 
-<br>
-
-🔐 Verified student accounts through CIT-U email
-🔒 Quest details locked after acceptance
-✅ Mutual, staged completion confirmation
-🚫 Cancellation tracking with restrictions after repeated cancellations
+<p>
+🔐 Verified student accounts through CIT-U email<br>
+🔒 Quest details locked after acceptance<br>
+✅ Mutual, staged completion confirmation<br>
+🚫 Cancellation tracking with restrictions after repeated cancellations<br>
 📍 Approved campus meet-up locations only
+</p>
 
-<br><br>
-
+<p>
 <b>Interesting problem solved:</b>
+</p>
 
+<p>
 Ensuring that <b>only one Runner can accept a Quest</b>, with the acceptance constraint handled at the database level.
-
-<br><br>
+</p>
 
 <img src="https://img.shields.io/badge/UNDER%20DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=F5C518&labelColor=000000&color=F5C518" alt="Under Development">
 
@@ -197,10 +205,10 @@ Ensuring that <b>only one Runner can accept a Quest</b>, with the acceptance con
 
 </div>
 
-| Award                            | Project   |
-| -------------------------------- | --------- |
-| 🥇 <b>Best Overall Design</b>    | RoboQuest |
-| 🥇 <b>Best in Usability</b>      | RoboQuest |
+| Award | Project |
+|---|---|
+| 🥇 <b>Best Overall Design</b> | RoboQuest |
+| 🥇 <b>Best in Usability</b> | RoboQuest |
 | 🥇 <b>Best in Virtual Design</b> | RoboQuest |
 
 ---
