@@ -12,11 +12,11 @@
 
 <br><br>
 
-![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20MISSIONS-F5C518?style=for-the-badge\&labelColor=000000)
+<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20MISSIONS-F5C518?style=for-the-badge&labelColor=000000" alt="Status">
 
-![Location](https://img.shields.io/badge/BASE-CEBU%2C%20PH-F5C518?style=for-the-badge\&labelColor=000000)
+<img src="https://img.shields.io/badge/BASE-CEBU%2C%20PH-F5C518?style=for-the-badge&labelColor=000000" alt="Location">
 
-![Role](https://img.shields.io/badge/CLASS-COMPUTER%20ENGINEER-F5C518?style=for-the-badge\&labelColor=000000)
+<img src="https://img.shields.io/badge/CLASS-COMPUTER%20ENGINEER-F5C518?style=for-the-badge&labelColor=000000" alt="Role">
 
 <br>
 
@@ -28,20 +28,20 @@
 
 <div align="center">
 
-## 🦇 CASE FILE
+<h2>🦇 CASE FILE</h2>
 
 </div>
 
-|                        |                                                                            |
-| ---------------------- | -------------------------------------------------------------------------- |
-| **Alias**              | Mark Anthony A. Blanco                                                     |
-| **Base of operations** | Cebu City, Philippines                                                     |
-| **Training academy**   | Cebu Institute of Technology – University (CIT-U), BS Computer Engineering |
-| **Specialties**        | Full-stack web, UI/UX design, systems & hardware fundamentals              |
-| **Currently**          | Building **QuestGo**, a student errand marketplace for CIT-U               |
-| **Looking for**        | Internships, OJT, and junior software / engineering roles                  |
+|                           |                                                                            |
+| ------------------------- | -------------------------------------------------------------------------- |
+| <b>Alias</b>              | Mark Anthony A. Blanco                                                     |
+| <b>Base of operations</b> | Cebu City, Philippines                                                     |
+| <b>Training academy</b>   | Cebu Institute of Technology – University (CIT-U), BS Computer Engineering |
+| <b>Specialties</b>        | Full-stack web, UI/UX design, systems & hardware fundamentals              |
+| <b>Currently</b>          | Building <b>QuestGo</b>, a student errand marketplace for CIT-U            |
+| <b>Looking for</b>        | Internships, OJT, and junior software / engineering roles                  |
 
-I build **practical solutions** across software, systems, hardware, and design.
+I build <b>practical solutions</b> across software, systems, hardware, and design.
 
 Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
@@ -49,7 +49,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <div align="center">
 
-## 🛠️ THE UTILITY BELT
+<h2>🛠️ THE UTILITY BELT</h2>
 
 <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,react,tailwind,supabase,figma,git,github&theme=dark" alt="Tech stack">
 
@@ -57,20 +57,20 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-| Gadget                | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | ![C](https://img.shields.io/badge/C-000000?style=flat-square\&logo=c\&logoColor=F5C518) ![C#](https://img.shields.io/badge/C%23-000000?style=flat-square\&logo=csharp\&logoColor=F5C518) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python\&logoColor=F5C518) ![Java](https://img.shields.io/badge/Java-000000?style=flat-square\&logo=openjdk\&logoColor=F5C518) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=F5C518) |
-| **Frontend**          | ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square\&logo=html5\&logoColor=F5C518) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square\&logo=css3\&logoColor=F5C518) ![React](https://img.shields.io/badge/React-000000?style=flat-square\&logo=react\&logoColor=F5C518) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square\&logo=tailwindcss\&logoColor=F5C518)                                                                                               |
-| **Backend & Data**    | ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square\&logo=supabase\&logoColor=F5C518) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square\&logo=postgresql\&logoColor=F5C518)                                                                                                                                                                                                                                                                                        |
-| **Design & Workflow** | ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square\&logo=figma\&logoColor=F5C518) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git\&logoColor=F5C518) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=F5C518)                                                                                                                                                                                                               |
+| Gadget                   | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <b>Languages</b>         | <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=F5C518" alt="C"> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=F5C518" alt="C#"> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F5C518" alt="Python"> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F5C518" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F5C518" alt="JavaScript"> |
+| <b>Frontend</b>          | <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=F5C518" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=F5C518" alt="CSS3"> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=F5C518" alt="React"> <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=F5C518" alt="Tailwind">                                                                                                           |
+| <b>Backend & Data</b>    | <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=F5C518" alt="Supabase"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=F5C518" alt="PostgreSQL">                                                                                                                                                                                                                                                                                                                            |
+| <b>Design & Workflow</b> | <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F5C518" alt="Figma"> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F5C518" alt="Git"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=F5C518" alt="GitHub">                                                                                                                                                                                                                                       |
 
 ---
 
 <div align="center">
 
-## 🎯 FEATURED MISSIONS
+<h2>🎯 FEATURED MISSIONS</h2>
 
-*Click a case file to open it.*
+<i>Click a case file to open it.</i>
 
 </div>
 
@@ -92,17 +92,23 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-**<b>Classification:</b> Award-winning project**
+<b>Classification:</b> Award-winning project
 
-**<b>Mission brief:</b> A project focused on virtual design, usability, and overall user experience, recognized across multiple design categories.
+<br><br>
 
-**<b>Commendations:</b>
+<b>Mission brief:</b> A project focused on virtual design, usability, and overall user experience, recognized across multiple design categories.
 
-🥇 Best in Virtual Design •
-🥇 Best in Usability •
-🥇 Best Overall Design
+<br><br>
+
+<b>Commendations:</b>
 
 <br>
+
+🥇 Best in Virtual Design
+🥇 Best in Usability
+🥇 Best Overall Design
+
+<br><br>
 
 <a href="https://www.figma.com/proto/0sksZ0FJU54tKbxwSTFwot/Roboquest?node-id=1-296&p=f&t=TGIn4p7gGTF1brKU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A296" target="_blank">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&logo=figma&logoColor=000000&labelColor=000000&color=F5C518" alt="View RoboQuest">
@@ -116,18 +122,24 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-**<b>Classification:</b> All-in-one student productivity toolkit**
+<b>Classification:</b> All-in-one student productivity toolkit
 
-**<b>Mission brief:</b> An academic productivity platform designed to bring several useful student tools into one workspace.
+<br><br>
 
-**<b>Gadgets inside:</b>
+<b>Mission brief:</b> An academic productivity platform designed to bring several useful student tools into one workspace.
 
-* 📄 PDF ↔ Word conversion
-* ✍️ Paraphrasing and text refinement
-* 🧠 Quiz maker
-* 🔎 OCR — image to text
+<br><br>
+
+<b>Gadgets inside:</b>
 
 <br>
+
+📄 PDF ↔ Word conversion
+✍️ Paraphrasing and text refinement
+🧠 Quiz maker
+🔎 OCR — image to text
+
+<br><br>
 
 <a href="https://u-convertit-frontend.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View U-ConvertIT">
@@ -141,27 +153,37 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <br>
 
-**<b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U**
+<b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
 
-**<b>Mission brief:</b> QuestGo connects CIT-U students who need small tasks completed with fellow students willing to complete them for payment at approved campus meet-up points.
+<br><br>
 
-**<b>How it works:</b>
+<b>Mission brief:</b> QuestGo connects CIT-U students who need small tasks completed with fellow students willing to complete them for payment at approved campus meet-up points.
 
-**Requesters** post **Quests**, while **Runners** accept and complete them for cash.
+<br><br>
 
-**<b>Built-in safeguards:</b>
+<b>How it works:</b>
 
-* 🔐 Verified student accounts through CIT-U email
-* 🔒 Quest details locked after acceptance
-* ✅ Mutual, staged completion confirmation
-* 🚫 Cancellation tracking with restrictions after repeated cancellations
-* 📍 Approved campus meet-up locations only
+<b>Requesters</b> post <b>Quests</b>, while <b>Runners</b> accept and complete them for cash.
 
-**<b>Interesting problem solved:</b>
+<br><br>
 
-Ensuring that **only one Runner can accept a Quest**, with the acceptance constraint handled at the database level.
+<b>Built-in safeguards:</b>
 
 <br>
+
+🔐 Verified student accounts through CIT-U email
+🔒 Quest details locked after acceptance
+✅ Mutual, staged completion confirmation
+🚫 Cancellation tracking with restrictions after repeated cancellations
+📍 Approved campus meet-up locations only
+
+<br><br>
+
+<b>Interesting problem solved:</b>
+
+Ensuring that <b>only one Runner can accept a Quest</b>, with the acceptance constraint handled at the database level.
+
+<br><br>
 
 <img src="https://img.shields.io/badge/UNDER%20DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=F5C518&labelColor=000000&color=F5C518" alt="Under Development">
 
@@ -171,21 +193,21 @@ Ensuring that **only one Runner can accept a Quest**, with the acceptance constr
 
 <div align="center">
 
-## 🏆 COMMENDATIONS
+<h2>🏆 COMMENDATIONS</h2>
 
 </div>
 
-| Award                         | Project   |
-| ----------------------------- | --------- |
-| 🥇 **Best Overall Design**    | RoboQuest |
-| 🥇 **Best in Usability**      | RoboQuest |
-| 🥇 **Best in Virtual Design** | RoboQuest |
+| Award                            | Project   |
+| -------------------------------- | --------- |
+| 🥇 <b>Best Overall Design</b>    | RoboQuest |
+| 🥇 <b>Best in Usability</b>      | RoboQuest |
+| 🥇 <b>Best in Virtual Design</b> | RoboQuest |
 
 ---
 
 <div align="center">
 
-## 💻 THE BAT-COMPUTER
+<h2>💻 THE BAT-COMPUTER</h2>
 
 <br>
 
@@ -201,7 +223,7 @@ Ensuring that **only one Runner can accept a Quest**, with the acceptance constr
 
 <div align="center">
 
-## 📡 CONTACT THE SIGNAL
+<h2>📡 CONTACT THE SIGNAL</h2>
 
 <br>
 
@@ -227,9 +249,9 @@ Ensuring that **only one Runner can accept a Quest**, with the acceptance constr
 
 <br><br>
 
-### *"It's not who I am underneath, but what I build that defines me."*
+<h3><i>"It's not who I am underneath, but what I build that defines me."</i></h3>
 
-**THE CITY NEVER SLEEPS. NEITHER DOES THE CODE.**
+<b>THE CITY NEVER SLEEPS. NEITHER DOES THE CODE.</b>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,100:000000&height=100&section=footer" width="100%" alt="footer">
 
