@@ -42,7 +42,7 @@
 | <b>Base of operations</b> | Cebu City, Philippines |
 | <b>Training academy</b> | Cebu Institute of Technology – University (CIT-U), BS Computer Engineering |
 | <b>Specialties</b> | Full-stack web, UI/UX design, systems & hardware fundamentals |
-| <b>Currently</b> | Building <b>QuestGo</b>, a student errand marketplace for CIT-U |
+| <b>Currently</b> | Building <b>NOIRSAINT</b>, a dark-luxury fashion commerce platform |
 | <b>Looking for</b> | Internships, OJT, and junior software / engineering roles |
 
 I build <b>practical solutions</b> across software, systems, hardware, and design.
@@ -159,9 +159,42 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 </details>
 
+<details open>
+
+<summary><b>📂 CASE #004 — NOIRSAINT</b> &nbsp;🖤 <i>Dark-Luxury Fashion Commerce Platform</i></summary>
+
+<p>
+<b>Classification:</b> Production-oriented fashion commerce platform
+</p>
+
+<p>
+<b>Mission brief:</b> NOIRSAINT is a dark-luxury fashion commerce platform built around a refined storefront experience, variant-level inventory, authoritative order processing, a responsive customer experience, and a dedicated administrative workspace.
+</p>
+
+<p>
+<b>Core systems:</b>
+</p>
+
+<p>
+🛍️ Curated fashion storefront<br>
+📦 Variant-level inventory and SKU management<br>
+🔐 Supabase authentication and database-backed commerce<br>
+🧾 Authoritative checkout and order processing<br>
+🖥️ Customer storefront and admin workspace<br>
+✨ Page transitions, scroll reveals, 3D logo layers, and parallax interaction
+</p>
+
+<p>
+<a href="https://github.com/Markbugwak/NoirSaint" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View NOIRSAINT">
+</a>
+</p>
+
+</details>
+
 <details>
 
-<summary><b>📂 CASE #004 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
+<summary><b>📂 CASE #005 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
 <p>
 <b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
