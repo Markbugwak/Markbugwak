@@ -159,7 +159,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 </details>
 
-<details open>
+<details>
 
 <summary><b>📂 CASE #004 — NOIRSAINT</b> &nbsp;🖤 <i>Dark-Luxury Fashion Commerce Platform</i></summary>
 
