@@ -194,6 +194,39 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <details>
 
+<summary><b>📂 CASE #005 — GOLDEN HOUR COURTS</b> &nbsp;🏓 <i>Premium Pickleball Court Booking Experience</i></summary>
+
+<p>
+<b>Classification:</b> Premium sports and court booking platform
+</p>
+
+<p>
+<b>Mission brief:</b> Golden Hour Courts is a premium, Instagrammable pickleball experience for Cebu, combining real-time court availability and reservations with a cinematic sports-club aesthetic built for golden-hour sessions and after-dark play.
+</p>
+
+<p>
+<b>Core systems:</b>
+</p>
+
+<p>
+🏓 5+ courts with ₱450 / court / hour<br>
+🗓️ Real-time availability and 15-minute booking holds<br>
+🔐 Supabase authentication and database-backed reservations<br>
+💳 Secure simulated demo payment flow — no real money processed<br>
+🛡️ Admin control room for bookings, courts, schedules, and settings<br>
+✨ 3D hero visuals, smooth scrolling, parallax effects, and responsive design
+</p>
+
+<p>
+<a href="https://golden-hour-courts.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View Golden Hour Courts">
+</a>
+</p>
+
+</details>
+
+<details>
+
 <summary><b>📂 CASE #006 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
 <p>
