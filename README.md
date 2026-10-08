@@ -194,7 +194,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <details>
 
-<summary><b>📂 CASE #005 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
+<summary><b>📂 CASE #006 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
 <p>
 <b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
