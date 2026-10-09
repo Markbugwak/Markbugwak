@@ -227,7 +227,7 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <details>
 
-<summary><b>📂 CASE #006 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
+<summary><b>📂 CASE #007 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
 <p>
 <b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
@@ -267,6 +267,45 @@ Ensuring that <b>only one Runner can accept a Quest</b>, with the acceptance con
 
 <p>
 <img src="https://img.shields.io/badge/UNDER%20DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=F5C518&labelColor=000000&color=F5C518" alt="Under Development">
+</p>
+
+</details>
+
+
+<details>
+
+<summary><b>📂 CASE #006 — AFTERGLOW</b> &nbsp;📸 <i>Retro Photobooth Experience</i></summary>
+
+<p>
+<b>Classification:</b> Interactive retro-style web photobooth
+</p>
+
+<p>
+<b>Mission brief:</b> Afterglow is a responsive browser-based photobooth that brings a nostalgic photo-strip experience to the web, with camera capture, creative filters, frame styles, and photo downloads.
+</p>
+
+<p>
+<b>Core features:</b>
+</p>
+
+<p>
+📷 Browser-based camera experience<br>
+🎞️ Retro-inspired filters and photo frames<br>
+🖼️ Photo-strip creation and downloads<br>
+📱 Responsive layout for mobile and desktop<br>
+💌 User feedback form for reviews and suggestions
+</p>
+
+<p>
+<a href="https://github.com/Markbugwak/Retro-Photobooth" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View Afterglow source code">
+</a>
+</p>
+
+<p>
+<a href="https://afterglow.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/OPEN%20AFTERGLOW-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="Open Afterglow">
+</a>
 </p>
 
 </details>
