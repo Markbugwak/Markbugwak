@@ -259,7 +259,44 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <details>
 
-<summary><b>📂 CASE #007 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
+<summary><b>📂 CASE #007 — TILAW</b> &nbsp;🍲 <i>Cebuano Food Culture & Interactive Map</i></summary>
+
+<p>
+<b>Classification:</b> Responsive food discovery guide and interactive map
+</p>
+
+<p>
+<b>Mission brief:</b> TILAW — “Ang lami sa Sugbo” — celebrates Cebuano food culture with a searchable dish directory, category filters, an interactive map, and links to explore food places through Google Maps.
+</p>
+
+<p>
+<b>Core features:</b>
+</p>
+
+<p>
+🍜 Searchable Cebuano dish directory<br>
+🗂️ Category filters for discovering local specialties<br>
+🗺️ Interactive Leaflet map with OpenStreetMap tiles<br>
+📍 Place details and Google Maps exploration links<br>
+📱 Responsive experience for mobile and desktop<br>
+♿ Keyboard focus styling and reduced-motion support
+</p>
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/HEAD/Markbugwak/TILAW" width="100%" alt="TILAW GitHub project preview">
+</p>
+
+<p>
+<a href="https://github.com/Markbugwak/TILAW" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View TILAW project">
+</a>
+</p>
+
+</details>
+
+<details>
+
+<summary><b>📂 CASE #008 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
 <p>
 <b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
