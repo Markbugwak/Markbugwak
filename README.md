@@ -296,7 +296,45 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 
 <details>
 
-<summary><b>📂 CASE #008 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
+<summary><b>📂 CASE #008 — AFTER-IMAGE</b> &nbsp;✨ <i>An Interactive Experience for Memories & Emotions</i></summary>
+
+<p>
+<b>Classification:</b> Interactive, frontend-only visual keepsake experience
+</p>
+
+<p>
+<b>Mission brief:</b> AFTER-IMAGE is an intimate digital experience about feelings, memory, and moments worth keeping. It pairs an editorial, warm-neutral design with animated mood-driven visuals and a personalized keepsake creator.
+</p>
+
+<p>
+<b>Core features:</b>
+</p>
+
+<p>
+🌅 Five moods: Nostalgia, Peace, Longing, Hope, and Joy<br>
+🎨 Animated generative orb artwork with mood-driven colors<br>
+✍️ Personal reflection prompt and customized keepsake card<br>
+🖼️ Downloadable PNG artwork generated in the browser<br>
+📱 Responsive, editorial-inspired interface<br>
+♿ Keyboard-friendly controls and reduced-motion support<br>
+🔒 Frontend-only experience — reflections stay in the browser
+</p>
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/HEAD/Markbugwak/After-Image" width="100%" alt="AFTER-IMAGE GitHub project preview">
+</p>
+
+<p>
+<a href="https://after-image-seven.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View AFTER-IMAGE">
+</a>
+</p>
+
+</details>
+
+<details>
+
+<summary><b>📂 CASE #009 — QuestGo</b> &nbsp;🚧 <i>Under Development</i></summary>
 
 <p>
 <b>Classification:</b> Hyperlocal student-to-student errand marketplace for CIT-U
