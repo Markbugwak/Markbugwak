@@ -282,10 +282,6 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 ♿ Keyboard focus styling and reduced-motion support
 </p>
 
-<p align="center">
-<img src="https://opengraph.githubassets.com/HEAD/Markbugwak/TILAW" width="100%" alt="TILAW GitHub project preview">
-</p>
-
 <p>
 <a href="https://github.com/Markbugwak/TILAW" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View TILAW project">
@@ -318,10 +314,6 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 📱 Responsive, editorial-inspired interface<br>
 ♿ Keyboard-friendly controls and reduced-motion support<br>
 🔒 Frontend-only experience — reflections stay in the browser
-</p>
-
-<p align="center">
-<img src="https://opengraph.githubassets.com/HEAD/Markbugwak/After-Image" width="100%" alt="AFTER-IMAGE GitHub project preview">
 </p>
 
 <p>
