@@ -250,14 +250,8 @@ Some heroes have gadgets. I have a keyboard, a Git history, and a lot of coffee.
 </p>
 
 <p>
-<a href="https://github.com/Markbugwak/Retro-Photobooth" target="_blank">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="View Afterglow source code">
-</a>
-</p>
-
-<p>
 <a href="https://afterglow-tan.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/OPEN%20AFTERGLOW-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="Open Afterglow">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F5C518?style=for-the-badge&labelColor=000000&color=F5C518" alt="Open Afterglow">
 </a>
 </p>
 
